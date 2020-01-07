@@ -1,2 +1,2 @@
-# terrafomr-lil
+# terraform-lil
 LinkedIn Learning Coursework
